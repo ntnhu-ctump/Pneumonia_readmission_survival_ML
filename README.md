@@ -1,4 +1,4 @@
-# pneumonia_readmission_survival_ML
+# Pneumonia_readmission_survival_ML
 
 The codes for survival ML predictive models for pneumonia readmission risks in middle-aged and elderly patients. 
 
